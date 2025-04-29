@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('Rio Villa Co..jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center; 
+    color: #ffffff;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+    border-bottom: 1px solid #ccc;
+    /* Center the content of each section */
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    min-height: 100vh;
+    padding: 2em;
+    box-sizing: border-box;
+}
+
+.facebook-iframe {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+}
+#ad-banner {
+    text-align: center;
+    margin: 2em 0;
+}
+
+#ad-banner img {
+    .ad-banner img {
+        width: 90px;
+        height: 90px; 
+        object-fit: cover; 
+        display: block; 
+        margin: 0 auto;
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: white;
+}
